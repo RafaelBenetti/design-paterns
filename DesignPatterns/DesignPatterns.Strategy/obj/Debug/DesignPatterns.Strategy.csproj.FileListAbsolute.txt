@@ -1,0 +1,1 @@
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Strategy\bin\Debug\DesignPatterns.Strategy.exe.config
