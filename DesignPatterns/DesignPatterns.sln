@@ -5,6 +5,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.0 - Strategy", "01.0 - S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{ACE174AA-40FF-4876-9148-E9F896BEE24F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.0 - NullObject", "02.0 - NullObject", "{71EED02A-B95B-44D7-9C08-F8BB03F3B392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.NullObject", "DesignPatterns.NullObject\DesignPatterns.NullObject.csproj", "{410C12A8-5611-4260-AF64-D5B2102D8FB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +19,16 @@ Global
 		{ACE174AA-40FF-4876-9148-E9F896BEE24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACE174AA-40FF-4876-9148-E9F896BEE24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACE174AA-40FF-4876-9148-E9F896BEE24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410C12A8-5611-4260-AF64-D5B2102D8FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410C12A8-5611-4260-AF64-D5B2102D8FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410C12A8-5611-4260-AF64-D5B2102D8FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410C12A8-5611-4260-AF64-D5B2102D8FB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{ACE174AA-40FF-4876-9148-E9F896BEE24F} = {5E9F8E27-1D82-482D-A1D0-EDA5340A90D4}
+		{410C12A8-5611-4260-AF64-D5B2102D8FB7} = {71EED02A-B95B-44D7-9C08-F8BB03F3B392}
 	EndGlobalSection
 EndGlobal
