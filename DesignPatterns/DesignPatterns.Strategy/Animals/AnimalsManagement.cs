@@ -25,7 +25,7 @@ namespace DesignPatterns.Strategy.Animals
         {
             var turtle = new Turtle();
             var elephant = new Elephant();
-            var tiger = new Tiger();
+            var tiger = new Tiger();           
 
             this._animals.Add(turtle);
             this._animals.Add(elephant);
