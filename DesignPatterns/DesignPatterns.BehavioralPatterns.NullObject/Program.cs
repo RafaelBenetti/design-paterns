@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DesignPatterns.BehavioralPatterns.NullObject.Persons;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +9,17 @@ namespace DesignPatterns.BehavioralPatterns.NullObject
 {
     class Program
     {
+        private static CustomerFactory _customerFactory = new CustomerFactory();
+
         static void Main(string[] args)
         {
-            //To do..
+            var customer = _customerFactory.GetCustomerBy("Rafael");
+            customer.SayYourName();
+
+            customer = _customerFactory.GetCustomerBy("NullCustomer");
+            customer.SayYourName();
+            
+            Console.ReadKey();
         }
     }
 }

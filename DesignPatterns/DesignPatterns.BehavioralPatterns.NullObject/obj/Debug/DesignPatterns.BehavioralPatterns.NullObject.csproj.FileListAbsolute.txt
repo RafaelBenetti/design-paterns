@@ -1,0 +1,6 @@
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.exe.config
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.exe
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.pdb
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Debug\DesignPatterns.BehavioralPatterns.NullObject.csprojResolveAssemblyReference.cache
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Debug\DesignPatterns.BehavioralPatterns.NullObject.exe
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Debug\DesignPatterns.BehavioralPatterns.NullObject.pdb
