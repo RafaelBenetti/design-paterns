@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Persons\Customer.cs" />
+    <Compile Include="Persons\CustomerFactory.cs" />
+    <Compile Include="Persons\IPerson.cs" />
+    <Compile Include="Persons\NullCustomer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
