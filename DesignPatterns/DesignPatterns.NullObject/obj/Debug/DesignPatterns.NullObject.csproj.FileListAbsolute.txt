@@ -1,6 +1,0 @@
-C:\github\design-paterns\DesignPatterns\DesignPatterns.NullObject\bin\Debug\DesignPatterns.NullObject.exe.config
-C:\github\design-paterns\DesignPatterns\DesignPatterns.NullObject\bin\Debug\DesignPatterns.NullObject.exe
-C:\github\design-paterns\DesignPatterns\DesignPatterns.NullObject\bin\Debug\DesignPatterns.NullObject.pdb
-C:\github\design-paterns\DesignPatterns\DesignPatterns.NullObject\obj\Debug\DesignPatterns.NullObject.csprojResolveAssemblyReference.cache
-C:\github\design-paterns\DesignPatterns\DesignPatterns.NullObject\obj\Debug\DesignPatterns.NullObject.exe
-C:\github\design-paterns\DesignPatterns\DesignPatterns.NullObject\obj\Debug\DesignPatterns.NullObject.pdb

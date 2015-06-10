@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatterns.Strategy.Animals
+namespace DesignPatterns.BehavioralPatterns.Strategy.Animals
 {
     public class AnimalsManagement
     {

@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatterns.NullObject.Animals
+namespace DesignPatterns.BehavioralPatterns.NullObject
 {
-    public class Cat : IAnimal
+    class Program
     {
-        public void Run()
+        static void Main(string[] args)
         {
-            Console.WriteLine("I'm run like a cat.");
         }
     }
 }

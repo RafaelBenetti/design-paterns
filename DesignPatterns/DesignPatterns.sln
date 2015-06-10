@@ -1,17 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.0 - Strategy", "01.0 - Strategy", "{5E9F8E27-1D82-482D-A1D0-EDA5340A90D4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Behavioral Patterns", "03 - Behavioral Patterns", "{834ADDF6-F4AD-45DF-AF11-561EEE760679}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{ACE174AA-40FF-4876-9148-E9F896BEE24F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Strategy", "01 - Strategy", "{54345A72-05AA-492D-B812-04208724E663}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.0 - NullObject", "02.0 - NullObject", "{71EED02A-B95B-44D7-9C08-F8BB03F3B392}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.BehavioralPatterns.Strategy", "DesignPatterns.BehavioralPatterns.Strategy\DesignPatterns.BehavioralPatterns.Strategy.csproj", "{EDDA61C6-4B13-410D-A236-533CE3F74F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.NullObject", "DesignPatterns.NullObject\DesignPatterns.NullObject.csproj", "{410C12A8-5611-4260-AF64-D5B2102D8FB7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Null Object", "02 - Null Object", "{86AD9D10-97DA-4418-AB89-E96B18935B1C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.0 - Hook Methods", "03.0 - Hook Methods", "{431A54FF-1122-465A-A4D0-B1433C2A3AC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.BehavioralPatterns.NullObject", "DesignPatterns.BehavioralPatterns.NullObject\DesignPatterns.BehavioralPatterns.NullObject.csproj", "{4D258333-0650-42E0-B001-12CB48A6613C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.0 - Template Method", "04.0 - Template Method", "{FE5736F2-28E6-45CF-8E23-A14BE36472BC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Structural Patterns", "02 - Structural Patterns", "{84A795A8-B2E7-4499-A02F-7EBC48D34587}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Creational Patterns", "01 - Creational Patterns", "{5DC51411-FEE7-41DC-9BEE-96215ECC1863}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 - Concepts OOP", "00 - Concepts OOP", "{B6A0A606-846B-4DFE-8A46-0FF71FA7EB03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99 - Test Driven Development", "99 - Test Driven Development", "{4D999BB0-1000-4659-8822-7BA12C02B7D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,20 +25,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ACE174AA-40FF-4876-9148-E9F896BEE24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ACE174AA-40FF-4876-9148-E9F896BEE24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ACE174AA-40FF-4876-9148-E9F896BEE24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ACE174AA-40FF-4876-9148-E9F896BEE24F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{410C12A8-5611-4260-AF64-D5B2102D8FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{410C12A8-5611-4260-AF64-D5B2102D8FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{410C12A8-5611-4260-AF64-D5B2102D8FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{410C12A8-5611-4260-AF64-D5B2102D8FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDA61C6-4B13-410D-A236-533CE3F74F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDA61C6-4B13-410D-A236-533CE3F74F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDA61C6-4B13-410D-A236-533CE3F74F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDA61C6-4B13-410D-A236-533CE3F74F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D258333-0650-42E0-B001-12CB48A6613C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D258333-0650-42E0-B001-12CB48A6613C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D258333-0650-42E0-B001-12CB48A6613C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D258333-0650-42E0-B001-12CB48A6613C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{ACE174AA-40FF-4876-9148-E9F896BEE24F} = {5E9F8E27-1D82-482D-A1D0-EDA5340A90D4}
-		{410C12A8-5611-4260-AF64-D5B2102D8FB7} = {71EED02A-B95B-44D7-9C08-F8BB03F3B392}
+		{54345A72-05AA-492D-B812-04208724E663} = {834ADDF6-F4AD-45DF-AF11-561EEE760679}
+		{86AD9D10-97DA-4418-AB89-E96B18935B1C} = {834ADDF6-F4AD-45DF-AF11-561EEE760679}
+		{EDDA61C6-4B13-410D-A236-533CE3F74F10} = {54345A72-05AA-492D-B812-04208724E663}
+		{4D258333-0650-42E0-B001-12CB48A6613C} = {86AD9D10-97DA-4418-AB89-E96B18935B1C}
 	EndGlobalSection
 EndGlobal

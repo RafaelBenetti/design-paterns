@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6DCC93EE-4D1C-4E9E-B31B-E18598631820}</ProjectGuid>
+    <ProjectGuid>{EDDA61C6-4B13-410D-A236-533CE3F74F10}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DesignPatterns.NullObjects</RootNamespace>
-    <AssemblyName>DesignPatterns.NullObjects</AssemblyName>
+    <RootNamespace>DesignPatterns.BehavioralPatterns.Strategy</RootNamespace>
+    <AssemblyName>DesignPatterns.BehavioralPatterns.Strategy</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NewFolder1\IAnimal.cs" />
+    <Compile Include="Animals\AnimalsManagement.cs" />
+    <Compile Include="Animals\Elephant.cs" />
+    <Compile Include="Animals\IAnimal.cs" />
+    <Compile Include="Animals\Tiger.cs" />
+    <Compile Include="Animals\Turtle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

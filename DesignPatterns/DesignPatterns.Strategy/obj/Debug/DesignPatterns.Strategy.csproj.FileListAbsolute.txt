@@ -1,6 +1,0 @@
-C:\github\design-paterns\DesignPatterns\DesignPatterns.Strategy\bin\Debug\DesignPatterns.Strategy.exe.config
-C:\github\design-paterns\DesignPatterns\DesignPatterns.Strategy\bin\Debug\DesignPatterns.Strategy.exe
-C:\github\design-paterns\DesignPatterns\DesignPatterns.Strategy\bin\Debug\DesignPatterns.Strategy.pdb
-C:\github\design-paterns\DesignPatterns\DesignPatterns.Strategy\obj\Debug\DesignPatterns.Strategy.csprojResolveAssemblyReference.cache
-C:\github\design-paterns\DesignPatterns\DesignPatterns.Strategy\obj\Debug\DesignPatterns.Strategy.exe
-C:\github\design-paterns\DesignPatterns\DesignPatterns.Strategy\obj\Debug\DesignPatterns.Strategy.pdb

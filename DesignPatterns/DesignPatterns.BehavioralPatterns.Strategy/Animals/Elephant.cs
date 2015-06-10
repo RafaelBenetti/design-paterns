@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatterns.Strategy.Animals
+namespace DesignPatterns.BehavioralPatterns.Strategy.Animals
 {
-    public class Turtle : IAnimal
+    public class Elephant : IAnimal
     {
         public void Run()
         {
-            Console.WriteLine("I'm run like a turtle.");
+            Console.WriteLine("I'm run like an Elephant.");
         }
     }
 }
