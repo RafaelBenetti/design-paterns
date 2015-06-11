@@ -5,7 +5,7 @@ using DesignPatterns.BehavioralPatterns.Strategy.Animals;
 namespace DesignPatterns.Test.TDD.BehavioralPatterns.Strategy
 {
     [TestClass]
-    public class Bird
+    public class BirdTest
     {
         [TestMethod]
         [TestCategory("Strategy")]
