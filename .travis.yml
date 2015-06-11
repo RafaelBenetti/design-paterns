@@ -1,8 +1,8 @@
 language: csharp
-solution: DesignPatterns.sln
+solution: DesignPatterns/DesignPatterns.sln
 before_install:
   - sudo apt-get install nunit-console
 before_script:
-  - nuget restore DesignPatterns.sln
+  - nuget restore DesignPatterns/DesignPatterns.sln
 after_script:
-  - nunit-console DesignPatterns.Test.TDD/bin/Release/DesignPatterns.Test.TDD.dll
+  - nunit-console DesignPatterns/DesignPatterns.Test.TDD/bin/Release/DesignPatterns.Test.TDD.dll
