@@ -9,3 +9,6 @@ C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\Design
 C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.csprojResolveAssemblyReference.cache
 C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.dll
 C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.pdb
+C:\GitHub\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\xunit.execution.desktop.dll
+C:\GitHub\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\nunit.framework.dll
+C:\GitHub\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\nunit.framework.xml

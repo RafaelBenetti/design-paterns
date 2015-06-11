@@ -17,6 +17,7 @@ namespace DesignPatterns.Test.TDD.BehavioralPatterns.NullObject
         }
 
         [TestMethod]
+        [TestCategory("Null Object")]
         public void Validate_Instance_Of_Customer()
         {
             Person customer = this._customerFactory.GetCustomerBy("Rafael");
@@ -24,6 +25,7 @@ namespace DesignPatterns.Test.TDD.BehavioralPatterns.NullObject
         }
 
         [TestMethod]
+        [TestCategory("Null Object")]
         public void Validate_Instance_Of_NullCustomer()
         {
             Person nullCustomer = this._customerFactory.GetCustomerBy("InvalidCustomer");

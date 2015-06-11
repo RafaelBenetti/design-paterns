@@ -1,7 +1,4 @@
-﻿using System;
-using System.Text;
-using System.Collections.Generic;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using DesignPatterns.BehavioralPatterns.NullObject.Persons;
 
 namespace DesignPatterns.Test.TDD.BehavioralPatterns.NullObject
@@ -17,6 +14,7 @@ namespace DesignPatterns.Test.TDD.BehavioralPatterns.NullObject
         }
 
         [TestMethod]
+        [TestCategory("Null Object")]
         public void Validate_Say_Your_Name()
         {
             var expectedMessage = "I'm not a valid customer, but you can call me Null Object!";
