@@ -1,11 +1,11 @@
 ﻿
 namespace DesignPatterns.BehavioralPatterns.Strategy.Animals
 {
-    public class Turtle : Animal
+    public class Spider : Animal
     {
-        public Turtle()
+        public Spider()
         {
-            NumberOfLegs = 4;
+            NumberOfLegs = 8;
         }
 
         public override int GetNumberOfLegs()

@@ -1,21 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace DesignPatterns.BehavioralPatterns.Strategy.Animals
 {
     public class AnimalsManagement
     {
-        private List<IAnimal> _animals;
+        private List<Animal> _animals;
 
         public AnimalsManagement()
         {
-            this._animals = new List<IAnimal>();
+            this._animals = new List<Animal>();
         }
 
-        public List<IAnimal> GetAll()
+        public List<Animal> GetAll()
         {
             PopulateAnimals();
             return this._animals;
@@ -24,8 +20,8 @@ namespace DesignPatterns.BehavioralPatterns.Strategy.Animals
         private void PopulateAnimals()
         {
             var turtle = new Turtle();
-            var elephant = new Elephant();
-            var tiger = new Tiger();           
+            var elephant = new Spider();
+            var tiger = new Penguin();           
 
             this._animals.Add(turtle);
             this._animals.Add(elephant);
