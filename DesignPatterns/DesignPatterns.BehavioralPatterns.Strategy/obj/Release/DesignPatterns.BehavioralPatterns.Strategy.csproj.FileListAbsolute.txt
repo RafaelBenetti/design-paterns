@@ -1,0 +1,6 @@
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Release\DesignPatterns.BehavioralPatterns.Strategy.exe.config
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Release\DesignPatterns.BehavioralPatterns.Strategy.exe
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Release\DesignPatterns.BehavioralPatterns.Strategy.pdb
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Release\DesignPatterns.BehavioralPatterns.Strategy.csprojResolveAssemblyReference.cache
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Release\DesignPatterns.BehavioralPatterns.Strategy.exe
+C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Release\DesignPatterns.BehavioralPatterns.Strategy.pdb

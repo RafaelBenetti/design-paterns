@@ -9,23 +9,24 @@ namespace DesignPatterns.BehavioralPatterns.Strategy.Animals
         public AnimalsManagement()
         {
             this._animals = new List<Animal>();
+            PopulateAnimals();
         }
 
         public List<Animal> GetAll()
-        {
-            PopulateAnimals();
+        {            
             return this._animals;
         }
 
         private void PopulateAnimals()
         {
-            var turtle = new Turtle();
-            var elephant = new Spider();
-            var tiger = new Penguin();           
+            AddToList(new Turtle());
+            AddToList(new Penguin());
+            AddToList(new Spider());
+        }
 
-            this._animals.Add(turtle);
-            this._animals.Add(elephant);
-            this._animals.Add(tiger);
+        private void AddToList(Animal animal)
+        {
+            this._animals.Add(animal);        
         }
     }
 }
