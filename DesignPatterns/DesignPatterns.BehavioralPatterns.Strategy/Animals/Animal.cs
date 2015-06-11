@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.BehavioralPatterns.Strategy.Animals
 {
-    public class Elephant : IAnimal
-    {
-        public void Run()
-        {
-            Console.WriteLine("I'm run like an Elephant.");
-        }
+    public abstract class Animal : IAnimal
+    {        
+        protected int NumberOfLegs { get; set; }
+
+        public abstract int GetNumberOfLegs();
     }
 }

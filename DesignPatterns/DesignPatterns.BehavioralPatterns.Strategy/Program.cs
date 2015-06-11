@@ -13,11 +13,11 @@ namespace DesignPatterns.BehavioralPatterns.Strategy
 
         static void Main(string[] args)
         {
-            List<IAnimal> animals = _animalsManagement.GetAll();
+            List<Animal> animals = _animalsManagement.GetAll();
 
             foreach (var animal in animals)
             {
-                animal.Run();
+                Console.WriteLine("I'm an animal with {0} legs.", animal.GetNumberOfLegs());
             }
 
             Console.ReadKey();

@@ -60,6 +60,9 @@
     <Compile Include="BehavioralPatterns\NullObject\CustomerFactoryTest.cs" />
     <Compile Include="BehavioralPatterns\NullObject\CustomerTest.cs" />
     <Compile Include="BehavioralPatterns\NullObject\NullObjectTest.cs" />
+    <Compile Include="BehavioralPatterns\Strategy\TurtleTest.cs" />
+    <Compile Include="BehavioralPatterns\Strategy\SpiderTest.cs" />
+    <Compile Include="BehavioralPatterns\Strategy\Bird.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -79,6 +82,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
