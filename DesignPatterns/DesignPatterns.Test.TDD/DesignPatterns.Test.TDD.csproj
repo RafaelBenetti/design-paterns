@@ -58,7 +58,7 @@
     <Compile Include="BehavioralPatterns\Strategy\AnimalsManagementTest.cs" />
     <Compile Include="BehavioralPatterns\Strategy\TurtleTest.cs" />
     <Compile Include="BehavioralPatterns\Strategy\SpiderTest.cs" />
-    <Compile Include="BehavioralPatterns\Strategy\Bird.cs" />
+    <Compile Include="BehavioralPatterns\Strategy\BirdTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
