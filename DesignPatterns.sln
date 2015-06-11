@@ -23,8 +23,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Template Method", "03 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.BehavioralPatterns.TemplateMethod", "DesignPatterns.BehavioralPatterns.TemplateMethod\DesignPatterns.BehavioralPatterns.TemplateMethod.csproj", "{03C778DC-F584-4D8B-961B-DE06DB8BFBCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Test.TDD", "DesignPatterns.Test.TDD\DesignPatterns.Test.TDD.csproj", "{1027CF01-0058-4A6D-825B-A337806672EF}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3EC26774-16CC-41D6-9701-31D1A3CD23F8}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\Users\rafaelbenetti\Desktop\.nuget\Microsoft.Build.dll = ..\..\Users\rafaelbenetti\Desktop\.nuget\Microsoft.Build.dll
@@ -33,6 +31,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3EC267
 		..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.mono.targets = ..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.mono.targets
 		..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.targets = ..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.targets
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Test.TestDrivenDevelopment", "DesignPatterns.Test.TestDrivenDevelopment\DesignPatterns.Test.TestDrivenDevelopment.csproj", "{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,10 +52,10 @@ Global
 		{03C778DC-F584-4D8B-961B-DE06DB8BFBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03C778DC-F584-4D8B-961B-DE06DB8BFBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03C778DC-F584-4D8B-961B-DE06DB8BFBCF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1027CF01-0058-4A6D-825B-A337806672EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1027CF01-0058-4A6D-825B-A337806672EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1027CF01-0058-4A6D-825B-A337806672EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1027CF01-0058-4A6D-825B-A337806672EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,7 +66,7 @@ Global
 		{3823EE0C-D2AC-42D9-9811-C5AA4DF372EC} = {834ADDF6-F4AD-45DF-AF11-561EEE760679}
 		{EDDA61C6-4B13-410D-A236-533CE3F74F10} = {54345A72-05AA-492D-B812-04208724E663}
 		{4D258333-0650-42E0-B001-12CB48A6613C} = {86AD9D10-97DA-4418-AB89-E96B18935B1C}
-		{1027CF01-0058-4A6D-825B-A337806672EF} = {4D999BB0-1000-4659-8822-7BA12C02B7D0}
+		{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB} = {4D999BB0-1000-4659-8822-7BA12C02B7D0}
 		{03C778DC-F584-4D8B-961B-DE06DB8BFBCF} = {3823EE0C-D2AC-42D9-9811-C5AA4DF372EC}
 	EndGlobalSection
 EndGlobal

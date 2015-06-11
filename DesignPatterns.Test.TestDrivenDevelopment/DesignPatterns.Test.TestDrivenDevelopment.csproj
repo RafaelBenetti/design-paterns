@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>35826ca3-fe01-4ecc-9d5b-1e99a027e5fc</ProjectGuid>
+    <ProjectGuid>{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DesignPatterns.Test.TDD</RootNamespace>
-    <AssemblyName>DesignPatterns.Test.TDD</AssemblyName>
+    <RootNamespace>DesignPatterns.Test.TestDrivenDevelopment</RootNamespace>
+    <AssemblyName>DesignPatterns.Test.TestDrivenDevelopment</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -35,9 +35,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Should.Fluent, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ShouldFluent.1.1.19\lib\Should.Fluent.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="xunit, Version=1.9.2.1705, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL">
+      <HintPath>..\packages\xunit.1.9.2\lib\net20\xunit.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
   <Choose>
@@ -53,8 +61,31 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="BehavioralPatterns\NullObject\CustomerFactoryTest.cs" />
+    <Compile Include="BehavioralPatterns\NullObject\CustomerTest.cs" />
+    <Compile Include="BehavioralPatterns\NullObject\NullObjectTest.cs" />
+    <Compile Include="BehavioralPatterns\Strategy\AnimalsManagementTest.cs" />
+    <Compile Include="BehavioralPatterns\Strategy\Bird.cs" />
+    <Compile Include="BehavioralPatterns\Strategy\SpiderTest.cs" />
+    <Compile Include="BehavioralPatterns\Strategy\TurtleTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DesignPatterns.BehavioralPatterns.NullObject\DesignPatterns.BehavioralPatterns.NullObject.csproj">
+      <Project>{4d258333-0650-42e0-b001-12cb48a6613c}</Project>
+      <Name>DesignPatterns.BehavioralPatterns.NullObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DesignPatterns.BehavioralPatterns.Strategy\DesignPatterns.BehavioralPatterns.Strategy.csproj">
+      <Project>{edda61c6-4b13-410d-a236-533ce3f74f10}</Project>
+      <Name>DesignPatterns.BehavioralPatterns.Strategy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DesignPatterns.BehavioralPatterns.TemplateMethod\DesignPatterns.BehavioralPatterns.TemplateMethod.csproj">
+      <Project>{03c778dc-f584-4d8b-961b-de06db8bfbcf}</Project>
+      <Name>DesignPatterns.BehavioralPatterns.TemplateMethod</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
