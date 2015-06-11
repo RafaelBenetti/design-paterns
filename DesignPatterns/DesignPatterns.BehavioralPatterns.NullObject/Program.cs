@@ -18,7 +18,7 @@ namespace DesignPatterns.BehavioralPatterns.NullObject
             Person customer = _customerFactory.GetCustomerBy("Benetti");
             people.Add(customer);
 
-            Person seller = _customerFactory.GetCustomerBy("Benetti");
+            Person nullCustomer = _customerFactory.GetCustomerBy("InvalidName");
             people.Add(customer);
 
             foreach (var person in people)

@@ -10,7 +10,7 @@ namespace DesignPatterns.BehavioralPatterns.NullObject.Persons
     {
         public override string SayYourName()
         {
-            return "I'm not a valid developer, but you can call me Null Object!";
+            return "I'm not a valid customer, but you can call me Null Object!";
         }
     }
 }
