@@ -3,3 +3,8 @@ C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Templa
 C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
 C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
 C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.exe.config
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb

@@ -4,3 +4,9 @@ C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullOb
 C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Release\DesignPatterns.BehavioralPatterns.NullObject.csprojResolveAssemblyReference.cache
 C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Release\DesignPatterns.BehavioralPatterns.NullObject.exe
 C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Release\DesignPatterns.BehavioralPatterns.NullObject.pdb
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\bin\Release\DesignPatterns.BehavioralPatterns.NullObject.exe.config
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Release\DesignPatterns.BehavioralPatterns.NullObject.exe
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Release\DesignPatterns.BehavioralPatterns.NullObject.pdb
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\bin\Release\DesignPatterns.BehavioralPatterns.NullObject.exe
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\bin\Release\DesignPatterns.BehavioralPatterns.NullObject.pdb
+C:\github\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Release\DesignPatterns.BehavioralPatterns.NullObject.csprojResolveAssemblyReference.cache
