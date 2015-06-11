@@ -25,6 +25,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.BehavioralPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Test.TDD", "DesignPatterns.Test.TDD\DesignPatterns.Test.TDD.csproj", "{1027CF01-0058-4A6D-825B-A337806672EF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3EC26774-16CC-41D6-9701-31D1A3CD23F8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\rafaelbenetti\Desktop\.nuget\Microsoft.Build.dll = ..\..\Users\rafaelbenetti\Desktop\.nuget\Microsoft.Build.dll
+		..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.Config = ..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.Config
+		..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.exe = ..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.exe
+		..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.mono.targets = ..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.mono.targets
+		..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.targets = ..\..\Users\rafaelbenetti\Desktop\.nuget\NuGet.targets
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

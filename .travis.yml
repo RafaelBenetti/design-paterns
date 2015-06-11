@@ -4,6 +4,5 @@ install:
   - nuget restore DesignPatterns.sln
   - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
-  - cd src/
   - xbuild /p:Configuration=Release DesignPatterns.sln
-  - mono ../lib/xunit/xunit.console.clr4.x86.exe DesignPatterns.Test.TDD/bin/Debug/DesignPatterns.Test.TDD.dll
+  - mono ./lib/xunit/xunit.console.clr4.x86.exe ./DesignPatterns.Test.TDD/bin/Debug/DesignPatterns.Test.TDD.dll

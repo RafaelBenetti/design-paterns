@@ -14,9 +14,12 @@ C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\DesignPatterns.Test
 C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\DesignPatterns.BehavioralPatterns.NullObject.exe
 C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\DesignPatterns.BehavioralPatterns.Strategy.exe
 C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
+C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\Should.Fluent.dll
+C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\xunit.dll
 C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\DesignPatterns.BehavioralPatterns.NullObject.pdb
 C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\DesignPatterns.BehavioralPatterns.Strategy.pdb
 C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
+C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Release\xunit.xml
 C:\github\design-paterns\DesignPatterns.Test.TDD\obj\Release\DesignPatterns.Test.TDD.csprojResolveAssemblyReference.cache
 C:\github\design-paterns\DesignPatterns.Test.TDD\obj\Release\DesignPatterns.Test.TDD.dll
 C:\github\design-paterns\DesignPatterns.Test.TDD\obj\Release\DesignPatterns.Test.TDD.pdb
