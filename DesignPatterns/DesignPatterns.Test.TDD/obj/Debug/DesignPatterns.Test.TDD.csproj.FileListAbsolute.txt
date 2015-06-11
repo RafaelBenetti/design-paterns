@@ -1,0 +1,11 @@
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.Test.TDD.dll
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.Test.TDD.pdb
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.exe
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.pdb
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.csprojResolveAssemblyReference.cache
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.dll
+C:\github\design-paterns\DesignPatterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.pdb

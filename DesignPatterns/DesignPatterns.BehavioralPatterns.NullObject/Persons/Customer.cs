@@ -13,9 +13,9 @@ namespace DesignPatterns.BehavioralPatterns.NullObject.Persons
             this.Name = name;
         }
 
-        public override void SayYourName()
+        public override string SayYourName()
         {
-            Console.WriteLine(string.Format("My name is {0}.", base.Name));
+            return string.Format("My name is {0} and i am developer", Name);
         }
     }
 }

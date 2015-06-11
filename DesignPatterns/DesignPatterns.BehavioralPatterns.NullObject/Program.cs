@@ -13,12 +13,19 @@ namespace DesignPatterns.BehavioralPatterns.NullObject
 
         static void Main(string[] args)
         {
-            var customer = _customerFactory.GetCustomerBy("Rafael");
-            customer.SayYourName();
+            List<IPerson> people = new List<IPerson>();
 
-            customer = _customerFactory.GetCustomerBy("NullCustomer");
-            customer.SayYourName();
-            
+            Person customer = _customerFactory.GetCustomerBy("Benetti");
+            people.Add(customer);
+
+            Person seller = _customerFactory.GetCustomerBy("Benetti");
+            people.Add(customer);
+
+            foreach (var person in people)
+            {
+                Console.WriteLine(person.SayYourName());
+            }
+
             Console.ReadKey();
         }
     }

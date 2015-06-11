@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.BehavioralPatterns.NullObject.Persons
 {
-    public class NullCustomer : Person
+    public abstract class Person : IPerson
     {
-        public override string SayYourName()
-        {
-            return "I'm not a valid developer, but you can call me Null Object!";
-        }
+        protected string Name { get; set; }
+
+        public abstract string SayYourName();
     }
 }

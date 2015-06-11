@@ -12,7 +12,7 @@ namespace DesignPatterns.BehavioralPatterns.NullObject.Persons
 
         public CustomerFactory()
         {
-            this._customersName = new List<string>() { "Rafael", "Oliveira", "Benetti"};
+            this._customersName = new List<string>() { "Rafael", "Oliveira", "Benetti" };
         }
 
         public Person GetCustomerBy(string name)
