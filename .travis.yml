@@ -1,8 +1,8 @@
 language: csharp
 solution: DesignPatterns.sln
-before_install:
-  - sudo apt-get install nunit-console
-before_script:
+install:
   - nuget restore DesignPatterns.sln
-after_script:
-  - nunit-console DesignPatterns.Test.TDD/bin/Release/DesignPatterns.Test.TDD.dll
+  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release DesignPatterns.sln
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./DesignPatterns.Test.TDD/bin/Release/DesignPatterns.Test.TDD.dll
