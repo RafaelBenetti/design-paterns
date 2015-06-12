@@ -25,7 +25,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Template Method", "03 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.BehavioralPatterns.TemplateMethod", "DesignPatterns.BehavioralPatterns.TemplateMethod\DesignPatterns.BehavioralPatterns.TemplateMethod.csproj", "{03C778DC-F584-4D8B-961B-DE06DB8BFBCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.TDD", "DesignPatterns.Test.TestDrivenDevelopment\Test.TDD.csproj", "{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.TDD", "DesignPatterns.Test.TDD\Test.TDD.csproj", "{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
