@@ -16,8 +16,7 @@ namespace Test.TDD.BehavioralPatterns.NullObject
             this._customerFactory = new CustomerFactory();
         }
 
-        [TestMethod]
-        [TestCategory("Null Object")]
+        [TestMethod, TestCategory("Null Object")]
         public void Validate_Say_Your_Name()
         {
             var expectedMessage = "My name is Rafael.";

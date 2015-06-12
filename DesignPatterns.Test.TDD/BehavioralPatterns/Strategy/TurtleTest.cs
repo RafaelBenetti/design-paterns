@@ -7,12 +7,12 @@ namespace Test.TDD.BehavioralPatterns.Strategy
     [TestClass]
     public class TurtleTest
     {
-        [TestMethod]
-        [TestCategory("Strategy")]
+        [TestMethod, TestCategory("Strategy")]
         public void Validate_Number_Of_Legs_Turtle()
         {
+            int expectedNumberOfLegs = 4;
             Animal turtle = new Turtle();
-            Assert.AreEqual(4, turtle.GetNumberOfLegs());
+            Assert.AreEqual(expectedNumberOfLegs, turtle.GetNumberOfLegs());
         }
     }
 }

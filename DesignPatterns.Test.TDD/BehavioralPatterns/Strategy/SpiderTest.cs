@@ -7,12 +7,12 @@ namespace Test.TDD.BehavioralPatterns.Strategy
     [TestClass]
     public class SpiderTest
     {
-        [TestMethod]
-        [TestCategory("Strategy")]
+        [TestMethod, TestCategory("Strategy")]
         public void Validate_Number_Of_Legs_Spider()
         {
+            int expectedNumberOfLegs = 8;
             Animal spider = new Spider();
-            Assert.AreEqual(8, spider.GetNumberOfLegs());
+            Assert.AreEqual(expectedNumberOfLegs, spider.GetNumberOfLegs());
         }
     }
 }

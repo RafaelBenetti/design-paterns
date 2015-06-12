@@ -7,12 +7,12 @@ namespace Test.TDD.BehavioralPatterns.Strategy
     [TestClass]
     public class BirdTest
     {
-        [TestMethod]
-        [TestCategory("Strategy")]
+        [TestMethod, TestCategory("Strategy")]
         public void Validate_Number_Of_Legs_Penguin()
         {
+            int expectedNumberOfLegs = 2;
             Animal penguin = new Penguin();
-            Assert.AreEqual(2, penguin.GetNumberOfLegs());
+            Assert.AreEqual(expectedNumberOfLegs, penguin.GetNumberOfLegs());
         }
     }
 }

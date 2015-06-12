@@ -16,8 +16,7 @@ namespace Test.TDD.BehavioralPatterns.Strategy
             _animalsManagementTest = new AnimalsManagement();
         }
 
-        [TestMethod]
-        [TestCategory("Strategy")]
+        [TestMethod, TestCategory("Strategy")]
         public void Validate_Get_All_Animals()
         {
             List<Animal> animals = _animalsManagementTest.GetAll();

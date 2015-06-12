@@ -16,16 +16,14 @@ namespace Test.TDD.BehavioralPatterns.NullObject
             this._customerFactory = new CustomerFactory();
         }
 
-        [TestMethod]
-        [TestCategory("Null Object")]
+        [TestMethod, TestCategory("Null Object")]
         public void Validate_Instance_Of_Customer()
         {
             Person customer = this._customerFactory.GetCustomerBy("Rafael");
             Assert.IsInstanceOfType(customer, typeof(Customer));
         }
 
-        [TestMethod]
-        [TestCategory("Null Object")]
+        [TestMethod, TestCategory("Null Object")]
         public void Validate_Instance_Of_NullCustomer()
         {
             Person nullCustomer = this._customerFactory.GetCustomerBy("InvalidCustomer");
