@@ -2,10 +2,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using DesignPatterns.BehavioralPatterns.Strategy.Animals;
 
-namespace DesignPatterns.Test.TestDrivenDevelopment.BehavioralPatterns.Strategy
+namespace Test.TDD.BehavioralPatterns.Strategy
 {
     [TestClass]
-    public class Bird
+    public class BirdTest
     {
         [TestMethod]
         [TestCategory("Strategy")]

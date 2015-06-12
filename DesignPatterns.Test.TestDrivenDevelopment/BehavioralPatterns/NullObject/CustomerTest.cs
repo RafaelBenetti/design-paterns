@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using DesignPatterns.BehavioralPatterns.NullObject.Persons;
 
-namespace DesignPatterns.Test.TestDrivenDevelopment.BehavioralPatterns.NullObject
+namespace Test.TDD.BehavioralPatterns.NullObject
 {
     [TestClass]
     public class CustomerTest

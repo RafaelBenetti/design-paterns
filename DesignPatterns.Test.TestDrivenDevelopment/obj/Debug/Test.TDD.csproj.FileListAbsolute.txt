@@ -1,0 +1,11 @@
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.Test.TestDrivenDevelopment.dll
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.Test.TestDrivenDevelopment.pdb
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.exe
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.pdb
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\obj\Debug\Test.TDD.csprojResolveAssemblyReference.cache
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\obj\Debug\DesignPatterns.Test.TestDrivenDevelopment.dll
+C:\GitHub\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\obj\Debug\DesignPatterns.Test.TestDrivenDevelopment.pdb

@@ -3,12 +3,9 @@ C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\Des
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.exe
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
-C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\Should.Fluent.dll
-C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\xunit.dll
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.pdb
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
-C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\bin\Debug\xunit.xml
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\obj\Debug\DesignPatterns.Test.TestDrivenDevelopment.csprojResolveAssemblyReference.cache
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\obj\Debug\DesignPatterns.Test.TestDrivenDevelopment.dll
 C:\github\design-paterns\DesignPatterns.Test.TestDrivenDevelopment\obj\Debug\DesignPatterns.Test.TestDrivenDevelopment.pdb
