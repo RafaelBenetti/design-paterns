@@ -12,7 +12,7 @@ namespace Test.TDD.BehavioralPatterns.Strategy
         public void Validate_Number_Of_Legs_Turtle()
         {
             Animal turtle = new Turtle();
-            Assert.AreEqual(7, turtle.GetNumberOfLegs());
+            Assert.AreEqual(4, turtle.GetNumberOfLegs());
         }
     }
 }
