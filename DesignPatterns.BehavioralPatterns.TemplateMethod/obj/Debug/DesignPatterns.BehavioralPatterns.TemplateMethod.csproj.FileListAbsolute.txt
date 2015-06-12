@@ -6,6 +6,5 @@ C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Templa
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe.config
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
-C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.csprojResolveAssemblyReference.cache
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb

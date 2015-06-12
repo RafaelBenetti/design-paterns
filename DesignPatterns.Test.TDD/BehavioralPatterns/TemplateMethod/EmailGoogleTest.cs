@@ -31,7 +31,7 @@ namespace DesignPatterns.Test.TDD.BehavioralPatterns.TemplateMethod
         }
 
         [TestMethod, TestCategory("Template Method")]
-        [ExpectedException(typeof(EmailException), noExceptionMessage: "Invalid e-mail address.")]
+        [ExpectedException(typeof(Exception), noExceptionMessage: "Invalid e-mail address.")]
         public void Validate_Send_Google_Email_Invalid_Address()
         {
             EmailGoogle google = new EmailGoogle();
