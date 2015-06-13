@@ -6,6 +6,6 @@ C:\github\design-paterns\DesignPatterns\DesignPatterns.BehavioralPatterns.Strate
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe.config
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb
-C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.csprojResolveAssemblyReference.cache
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb
+C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.csprojResolveAssemblyReference.cache
