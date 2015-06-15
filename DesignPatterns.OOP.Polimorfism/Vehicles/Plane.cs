@@ -8,9 +8,9 @@ namespace DesignPatterns.OOP.Polimorfism.Vehicles
 {
     public class Plane : Vehicle
     {
-        public override void Move()
+        public override string Move()
         {
-            Console.WriteLine("I move like a plane...");
+            return "I move like a plane...";
         }
     }
 }

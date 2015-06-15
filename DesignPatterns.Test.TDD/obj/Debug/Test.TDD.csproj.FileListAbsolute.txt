@@ -20,3 +20,9 @@ C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.Behavi
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\obj\Debug\Test.TDD.csprojResolveAssemblyReference.cache
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.dll
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.pdb
+C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.exe
+C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Encapsulation.exe
+C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Polimorfism.exe
+C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.pdb
+C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Encapsulation.pdb
+C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Polimorfism.pdb

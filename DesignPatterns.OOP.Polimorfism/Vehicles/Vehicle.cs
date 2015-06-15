@@ -8,6 +8,6 @@ namespace DesignPatterns.OOP.Polimorfism.Vehicles
 {
     public abstract class Vehicle
     {
-        public abstract void Move();
+        public abstract string Move();
     }
 }

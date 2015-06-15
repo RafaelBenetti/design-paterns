@@ -18,7 +18,7 @@ namespace DesignPatterns.OOP.Polimorfism
 
             foreach (var vehicle in vehicles)
             {
-                vehicle.Move();
+                Console.WriteLine(vehicle.Move());
             }
 
             Console.ReadKey();
