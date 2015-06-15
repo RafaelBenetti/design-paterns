@@ -8,6 +8,7 @@ namespace DesignPatterns.OOP.Encapsulation.Vehicles
 {
     public class Car
     {
+        // Encapsuling car's details.
         private Engine _engine;
 
         public Car()
