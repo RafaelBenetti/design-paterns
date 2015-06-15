@@ -11,10 +11,10 @@ namespace DesignPatterns.Test.TDD.ConceptsOOP.Polimorfism
         [TestCategory("Polimorfism")]
         public void Validate_Move_Plane()
         {
-            var expectedMove = "I move like a plane...";
+            string expectedMove = "I move like a plane...";
 
             var plane = new Plane();
-            var move = plane.Move();
+            string move = plane.Move();
 
             Assert.AreEqual(expectedMove, move);
         }

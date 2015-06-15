@@ -11,12 +11,9 @@ namespace DesignPatterns.OOP.Encapsulation
     {
         static void Main(string[] args)
         {
-            var ferrari = new Car();
-            
-            Console.WriteLine("I'm a car.");
-            Console.WriteLine(string.Format("I have {0} wheels.", ferrari.GetNumberOfWheels()));
-            Console.WriteLine(string.Format("My maximum speed is {0}.", ferrari.GetMaximumSpeed()));
-            
+            var corsa = new Car();
+            corsa.Move();
+
             Console.ReadKey();
         }
     }

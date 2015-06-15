@@ -1,4 +1,4 @@
-﻿using DesignPatterns.BehavioralPatterns.NullObject.Persons;
+﻿using DesignPatterns.BehavioralPatterns.NullObject.People;
 using System;
 using System.Collections.Generic;
 using System.Linq;

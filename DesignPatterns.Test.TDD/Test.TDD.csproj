@@ -62,6 +62,7 @@
     <Compile Include="BehavioralPatterns\Strategy\TurtleTest.cs" />
     <Compile Include="BehavioralPatterns\TemplateMethod\EmailGoogleTest.cs" />
     <Compile Include="BehavioralPatterns\TemplateMethod\EmailYahooTest.cs" />
+    <Compile Include="ConceptsOOP\Encapsulation\CarTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\BicycleTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\PlaneTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\CarTest.cs" />

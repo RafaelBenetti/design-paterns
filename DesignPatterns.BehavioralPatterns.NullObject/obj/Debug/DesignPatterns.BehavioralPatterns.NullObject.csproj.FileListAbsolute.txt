@@ -8,4 +8,3 @@ C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\bin\Debug\
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.pdb
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Debug\DesignPatterns.BehavioralPatterns.NullObject.exe
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Debug\DesignPatterns.BehavioralPatterns.NullObject.pdb
-C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.NullObject\obj\Debug\DesignPatterns.BehavioralPatterns.NullObject.csprojResolveAssemblyReference.cache

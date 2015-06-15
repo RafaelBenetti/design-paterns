@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using DesignPatterns.BehavioralPatterns.NullObject.Persons;
+using DesignPatterns.BehavioralPatterns.NullObject.People;
 
 namespace Test.TDD.BehavioralPatterns.NullObject
 {

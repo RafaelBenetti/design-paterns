@@ -8,26 +8,18 @@ namespace DesignPatterns.OOP.Encapsulation.Vehicles
 {
     public class Car
     {
+        private Engine _engine;
+
         public Car()
         {
-            this._maximumSpeed = 280;
-            this._numberOfWheels = 4;
+            _engine = new Engine();
         }
 
-        //Encapsuling car's details.
-        //Composition, objects in another objects.
-        public Engine _engine;
-        private double _maximumSpeed { get; set; }
-        private int _numberOfWheels { get; set; }
-
-        public int GetNumberOfWheels()
+        public string Move()
         {
-            return _numberOfWheels;        
-        }
+            _engine.Start();
 
-        public double GetMaximumSpeed()
-        {
-            return _maximumSpeed;        
+            return "Starting engine, injecting gasoline...";
         }
     }
 }

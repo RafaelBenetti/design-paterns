@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatterns.BehavioralPatterns.NullObject.Persons
+namespace DesignPatterns.BehavioralPatterns.NullObject.People
 {
     public interface IPerson
     {
