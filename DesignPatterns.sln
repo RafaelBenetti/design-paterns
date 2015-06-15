@@ -31,6 +31,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Factory Method", "01 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.CreationalPatterns.FactoryMethod", "DesignPatterns.CreationalPatterns.FactoryMethod\DesignPatterns.CreationalPatterns.FactoryMethod.csproj", "{28E995FE-B247-4281-BCC0-01BF2BFCD4A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.OOP.Encapsulation", "DesignPatterns.OOP.Encapsulation\DesignPatterns.OOP.Encapsulation.csproj", "{8B1ADC0A-25CC-426E-9E4B-803A674076F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{28E995FE-B247-4281-BCC0-01BF2BFCD4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28E995FE-B247-4281-BCC0-01BF2BFCD4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28E995FE-B247-4281-BCC0-01BF2BFCD4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1ADC0A-25CC-426E-9E4B-803A674076F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1ADC0A-25CC-426E-9E4B-803A674076F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1ADC0A-25CC-426E-9E4B-803A674076F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1ADC0A-25CC-426E-9E4B-803A674076F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,5 +77,6 @@ Global
 		{3F4D2D89-2AEB-47CD-89E8-5018AC6BE4CB} = {4D999BB0-1000-4659-8822-7BA12C02B7D0}
 		{BBDA651E-E583-4F8F-974F-CED0E8C87EBE} = {5DC51411-FEE7-41DC-9BEE-96215ECC1863}
 		{28E995FE-B247-4281-BCC0-01BF2BFCD4A2} = {BBDA651E-E583-4F8F-974F-CED0E8C87EBE}
+		{8B1ADC0A-25CC-426E-9E4B-803A674076F9} = {B6A0A606-846B-4DFE-8A46-0FF71FA7EB03}
 	EndGlobalSection
 EndGlobal
