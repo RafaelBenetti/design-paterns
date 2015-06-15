@@ -68,6 +68,8 @@
     <Compile Include="ConceptsOOP\Polimorfism\BicycleTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\PlaneTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\CarTest.cs" />
+    <Compile Include="CreationalPatterns\FactoryMethod\ManagementSoccerPlayerTest.cs" />
+    <Compile Include="CreationalPatterns\FactoryMethod\ManagementBasketballPlayerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -103,9 +105,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="CreationalPatterns\FactoryMethod\" />
-  </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

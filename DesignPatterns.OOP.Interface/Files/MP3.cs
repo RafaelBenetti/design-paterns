@@ -9,6 +9,11 @@ namespace DesignPatterns.OOP.Interface.Files
     //Concrete Class
     public class MP3 : File
     {
+        public MP3(string name)
+        {
+            this.Name = name;
+        }
+
         //Polimorfism
         public override void Open()
         {

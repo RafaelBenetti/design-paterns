@@ -1,4 +1,4 @@
-C:\GitHub\design-paterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.OOP.Interface.exe
-C:\GitHub\design-paterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.OOP.Interface.pdb
-C:\GitHub\design-paterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.exe
-C:\GitHub\design-paterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.pdb
+C:\github\design-paterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.OOP.Interface.exe
+C:\github\design-paterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.OOP.Interface.pdb
+C:\github\design-paterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.exe
+C:\github\design-paterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.pdb

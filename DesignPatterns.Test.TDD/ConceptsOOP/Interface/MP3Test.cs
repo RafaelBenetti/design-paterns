@@ -10,7 +10,7 @@ namespace DesignPatterns.Test.TDD.ConceptsOOP.Interface
         [TestMethod, TestCategory("Interface")]
         public void Validate_Open_MP3()
         {
-            var mp3 = new MP3();
+            var mp3 = new MP3("muse.mp3");
             mp3.Open();
         }
     }

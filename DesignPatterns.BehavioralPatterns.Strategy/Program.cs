@@ -1,12 +1,14 @@
 ﻿using DesignPatterns.BehavioralPatterns.Strategy.Animals;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DesignPatterns.BehavioralPatterns.Strategy
 {
+    [ExcludeFromCodeCoverage]
     class Program
     {
         private static AnimalsManagement _animalsManagement = new AnimalsManagement();

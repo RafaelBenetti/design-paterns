@@ -42,9 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Players\BasketballPlayer.cs" />
+    <Compile Include="Players\ManagementBasketballPlayer.cs" />
+    <Compile Include="Players\ManagementPlayer.cs" />
+    <Compile Include="Players\ManagementSoccerPlayer.cs" />
+    <Compile Include="Players\Player.cs" />
+    <Compile Include="Players\SoccerPlayer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Diagram\FactoryMethodDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

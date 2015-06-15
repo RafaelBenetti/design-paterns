@@ -1,12 +1,14 @@
 ﻿using DesignPatterns.BehavioralPatterns.NullObject.People;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DesignPatterns.BehavioralPatterns.NullObject
 {
+    [ExcludeFromCodeCoverage]
     class Program
     {
         private static CustomerFactory _customerFactory = new CustomerFactory();

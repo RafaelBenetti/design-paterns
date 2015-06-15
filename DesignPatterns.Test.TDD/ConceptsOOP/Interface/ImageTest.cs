@@ -7,25 +7,29 @@ namespace DesignPatterns.Test.TDD.ConceptsOOP.Interface
     [TestClass]
     public class ImageTest
     {
+        private Image _image;
+
+        public ImageTest()
+        {
+            _image = new Image("penguin.png");
+        }
+
         [TestMethod, TestCategory("Interface")]
         public void Validate_Open_Image()
         {
-            var image = new Image();
-            image.Open();
+            _image.Open();
         }
 
         [TestMethod, TestCategory("Interface")]
         public void Validate_Print_Image()
         {
-            var image = new Image();
-            image.Print();
+            _image.Print();
         }
 
         [TestMethod, TestCategory("Interface")]
         public void Validate_Edit_Image()
         {
-            var image = new Image();
-            image.Edit();
+            _image.Edit();
         }
     }
 }

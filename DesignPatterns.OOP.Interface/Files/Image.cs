@@ -9,6 +9,11 @@ namespace DesignPatterns.OOP.Interface.Files
     //Concrete Class
     public class Image : File, IEditable, IPrintable
     {
+        public Image(string name)
+        {
+            this.Name = name;
+        }
+
         //Polimorfism
         public override void Open()
         {

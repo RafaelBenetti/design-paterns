@@ -7,35 +7,38 @@ namespace DesignPatterns.Test.TDD.BehavioralPatterns.TemplateMethod
     [TestClass]
     public class EmailGoogleTest
     {
+        private EmailGoogle _google;
+
+        public EmailGoogleTest()
+        {
+            this._google = new EmailGoogle();
+        }
+
         [TestMethod, TestCategory("Template Method")]
         public void Validate_Send_Google_Email()
         {
-            EmailGoogle google = new EmailGoogle();
-            google.SendEmail("templatemethod@gmail.com", "Hello dear!");
+            _google.SendEmail("templatemethod@gmail.com", "Hello dear!");
         }
 
         [TestMethod, TestCategory("Template Method")]
         [ExpectedException(typeof(EmailException), "Message can not be null.")]
         public void Validate_Send_Google_Email_Without_Message()
         {
-            EmailGoogle google = new EmailGoogle();
-            google.SendEmail("templatemethod@gmail.com", null);
+            _google.SendEmail("templatemethod@gmail.com", null);
         }
 
         [TestMethod, TestCategory("Template Method")]
         [ExpectedException(typeof(EmailException), "Recipient can not be null.")]
         public void Validate_Send_Google_Email_Without_Recipient()
         {
-            EmailGoogle google = new EmailGoogle();
-            google.SendEmail(null, "Hello dear!");
+            _google.SendEmail(null, "Hello dear!");
         }
 
         [TestMethod, TestCategory("Template Method")]
         [ExpectedException(typeof(EmailException), noExceptionMessage: "Invalid e-mail address.")]
         public void Validate_Send_Google_Email_Invalid_Address()
         {
-            EmailGoogle google = new EmailGoogle();
-            google.SendEmail("invalidaddress", "Hello dear!");
+            _google.SendEmail("invalidaddress", "Hello dear!");
         }
     }
 }
