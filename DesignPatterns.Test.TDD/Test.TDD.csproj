@@ -63,6 +63,8 @@
     <Compile Include="BehavioralPatterns\TemplateMethod\EmailGoogleTest.cs" />
     <Compile Include="BehavioralPatterns\TemplateMethod\EmailYahooTest.cs" />
     <Compile Include="ConceptsOOP\Encapsulation\CarTest.cs" />
+    <Compile Include="ConceptsOOP\Interface\ImageTest.cs" />
+    <Compile Include="ConceptsOOP\Interface\MP3Test.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\BicycleTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\PlaneTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\CarTest.cs" />
@@ -88,6 +90,10 @@
     <ProjectReference Include="..\DesignPatterns.OOP.Encapsulation\DesignPatterns.OOP.Encapsulation.csproj">
       <Project>{8b1adc0a-25cc-426e-9e4b-803a674076f9}</Project>
       <Name>DesignPatterns.OOP.Encapsulation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DesignPatterns.OOP.Interface\DesignPatterns.OOP.Interface.csproj">
+      <Project>{e25b553a-b94f-447c-8d02-85fe4885f0b7}</Project>
+      <Name>DesignPatterns.OOP.Interface</Name>
     </ProjectReference>
     <ProjectReference Include="..\DesignPatterns.OOP.Polimorfism\DesignPatterns.OOP.Polimorfism.csproj">
       <Project>{9289d4c1-fa7e-43db-bd9f-bed1a8ebf9ac}</Project>

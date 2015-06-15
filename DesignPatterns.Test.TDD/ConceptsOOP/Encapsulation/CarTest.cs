@@ -7,8 +7,7 @@ namespace DesignPatterns.Test.TDD.ConceptsOOP.Encapsulation
     [TestClass]
     public class CarTest
     {
-        [TestMethod]
-        [TestCategory("Encapsulation")]
+        [TestMethod, TestCategory("Encapsulation")]
         public void Validate_Move_Car()
         {
             string expectedMove = "Starting engine, injecting gasoline...";

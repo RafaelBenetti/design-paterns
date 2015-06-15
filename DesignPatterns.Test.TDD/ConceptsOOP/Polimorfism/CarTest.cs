@@ -7,8 +7,7 @@ namespace DesignPatterns.Test.TDD.ConceptsOOP.Polimorfism
     [TestClass]
     public class CarTest
     {
-        [TestMethod]
-        [TestCategory("Polimorfism")]
+        [TestMethod, TestCategory("Polimorfism")]
         public void Validate_Move_Car()
         {
             string expectedMove = "I move like a car...";

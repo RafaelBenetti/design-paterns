@@ -7,8 +7,7 @@ namespace DesignPatterns.Test.TDD.ConceptsOOP.Polimorfism
     [TestClass]
     public class PlaneTest
     {
-        [TestMethod]
-        [TestCategory("Polimorfism")]
+        [TestMethod, TestCategory("Polimorfism")]
         public void Validate_Move_Plane()
         {
             string expectedMove = "I move like a plane...";
