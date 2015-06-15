@@ -28,3 +28,5 @@ C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Po
 C:\github\design-paterns\DesignPatterns.Test.TDD\obj\Debug\Test.TDD.csprojResolveAssemblyReference.cache
 C:\github\design-paterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.dll
 C:\github\design-paterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.pdb
+C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Delegation.exe
+C:\github\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Delegation.pdb
