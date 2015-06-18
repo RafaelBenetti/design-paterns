@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DesignPatterns.OOP.Delegation.Workers;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
@@ -11,6 +12,10 @@ namespace DesignPatterns.OOP.Delegation
     {
         static void Main(string[] args)
         {
+            var tesser = new Boss();
+            tesser.Work();
+
+            Console.ReadKey();
         }
     }
 }
