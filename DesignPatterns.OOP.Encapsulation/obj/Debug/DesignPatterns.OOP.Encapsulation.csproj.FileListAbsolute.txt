@@ -1,5 +1,4 @@
 C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\bin\Debug\DesignPatterns.OOP.Encapsulation.exe
 C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\bin\Debug\DesignPatterns.OOP.Encapsulation.pdb
-C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\obj\Debug\DesignPatterns.OOP.Encapsulation.csprojResolveAssemblyReference.cache
 C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\obj\Debug\DesignPatterns.OOP.Encapsulation.exe
 C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\obj\Debug\DesignPatterns.OOP.Encapsulation.pdb

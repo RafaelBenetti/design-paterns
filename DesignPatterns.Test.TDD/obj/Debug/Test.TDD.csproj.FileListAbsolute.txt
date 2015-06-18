@@ -19,6 +19,7 @@ C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.De
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Encapsulation.exe
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Interface.exe
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Polimorfism.exe
+C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.StructuralPatterns.Bridge.exe
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.NullObject.pdb
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
@@ -27,6 +28,7 @@ C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.De
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Encapsulation.pdb
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Interface.pdb
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Polimorfism.pdb
+C:\GitHub\design-paterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.StructuralPatterns.Bridge.pdb
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\obj\Debug\Test.TDD.csprojResolveAssemblyReference.cache
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.dll
 C:\GitHub\design-paterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.pdb
