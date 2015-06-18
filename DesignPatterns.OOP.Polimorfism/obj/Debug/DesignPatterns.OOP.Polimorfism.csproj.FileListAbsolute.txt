@@ -1,4 +1,5 @@
-C:\github\design-paterns\DesignPatterns.OOP.Polimorfism\bin\Debug\DesignPatterns.OOP.Polimorfism.exe
-C:\github\design-paterns\DesignPatterns.OOP.Polimorfism\bin\Debug\DesignPatterns.OOP.Polimorfism.pdb
-C:\github\design-paterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.exe
-C:\github\design-paterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.pdb
+C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\bin\Debug\DesignPatterns.OOP.Polimorfism.exe
+C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\bin\Debug\DesignPatterns.OOP.Polimorfism.pdb
+C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.csprojResolveAssemblyReference.cache
+C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.exe
+C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.pdb

@@ -1,4 +1,5 @@
-C:\github\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.exe
-C:\github\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.pdb
-C:\github\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\obj\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.exe
-C:\github\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\obj\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.pdb
+C:\GitHub\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.exe
+C:\GitHub\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.pdb
+C:\GitHub\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\obj\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.csprojResolveAssemblyReference.cache
+C:\GitHub\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\obj\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.exe
+C:\GitHub\design-paterns\DesignPatterns.CreationalPatterns.FactoryMethod\obj\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.pdb
