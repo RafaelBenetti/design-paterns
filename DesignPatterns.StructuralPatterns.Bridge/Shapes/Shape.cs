@@ -15,7 +15,6 @@ namespace DesignPatterns.StructuralPatterns.Bridge.Shapes
         protected Shape(IPainter painter)
         {
             this._painter = painter;
-            this.Color = painter.GetColor();
         }
 
         public abstract void Paint();
