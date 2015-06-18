@@ -51,8 +51,9 @@
     <Compile Include="Shapes\Retangle.cs" />
     <Compile Include="Shapes\Shape.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Diagram\" />
+    <None Include="Diagram\BridgeDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
