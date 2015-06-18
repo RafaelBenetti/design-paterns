@@ -45,7 +45,7 @@
     </TypeIdentifier>
   </Class>
   <Interface Name="DesignPatterns.StructuralPatterns.Bridge.Colors.IPainter" Collapsed="true">
-    <Position X="5.5" Y="1.5" Width="1.5" />
+    <Position X="5.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAA=</HashCode>
       <FileName>Colors\IPainter.cs</FileName>
