@@ -7,7 +7,7 @@ namespace DesignPatterns.BehavioralPatterns.State.DephtFirstSearch
 {
     public class White : Color
     {
-        public void Search(Node node, List<Node> nodes)
+        public override void Search(Node node, List<Node> nodes)
         { 
             node.SetColor(new Gray(), nodes);
         }

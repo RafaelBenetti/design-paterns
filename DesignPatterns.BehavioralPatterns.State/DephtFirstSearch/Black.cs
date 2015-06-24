@@ -7,7 +7,7 @@ namespace DesignPatterns.BehavioralPatterns.State.DephtFirstSearch
 {
     public class Black : Color
     {
-        public void TookOver(Node node, List<Node> nodes)
+        public override void TookOver(Node node, List<Node> nodes)
         {
             nodes.Add(node);
         }

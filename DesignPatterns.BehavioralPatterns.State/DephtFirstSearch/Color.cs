@@ -7,7 +7,7 @@ namespace DesignPatterns.BehavioralPatterns.State.DephtFirstSearch
 {
     public abstract class Color
     {
-        public void Search(Node node, List<Node> nodes) { }
-        public void TookOver(Node node, List<Node> nodes) { }
+        public virtual void Search(Node node, List<Node> nodes) { }
+        public virtual void TookOver(Node node, List<Node> nodes) { }
     }
 }

@@ -36,7 +36,7 @@ namespace DesignPatterns.BehavioralPatterns.State
 
             foreach (var node in nodes)
             {
-                node.ToString();
+                Console.WriteLine(node.ToString());
             }
 
             Console.ReadKey();

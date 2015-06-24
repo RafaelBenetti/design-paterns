@@ -7,7 +7,7 @@ namespace DesignPatterns.BehavioralPatterns.State.DephtFirstSearch
 {
     public class Gray : Color
     {
-        public void TookOver(Node node, List<Node> nodes)
+        public override void TookOver(Node node, List<Node> nodes)
         {
             List<Node> adjacents = node.GetAdjacents();
 

@@ -7,7 +7,7 @@ namespace DesignPatterns.BehavioralPatterns.State.DephtFirstSearch
 {
     public class Node
     {
-        private List<Node> _adjacents { get; set; }
+        private List<Node> _adjacents = new List<Node>();
         private Color _color { get; set; }
         private string _name { get; set; }
 
