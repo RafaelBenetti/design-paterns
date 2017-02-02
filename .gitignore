@@ -222,5 +222,20 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Text Files
-*.txt
+/build/
+*.suo
+*.user
+_ReSharper.*/
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h
+Version.cpp
