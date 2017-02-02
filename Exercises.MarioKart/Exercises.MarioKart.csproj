@@ -46,6 +46,7 @@
     <Compile Include="Equipments\IEquip.cs" />
     <Compile Include="Equipments\PistonRocket.cs" />
     <Compile Include="Equipments\UltraPack.cs" />
+    <Compile Include="Players\InvalidNameException.cs" />
     <Compile Include="Players\Player.cs" />
     <Compile Include="Players\PlayerLevelEnum.cs" />
     <Compile Include="Program.cs" />
