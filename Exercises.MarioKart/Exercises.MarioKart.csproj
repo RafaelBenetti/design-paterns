@@ -57,7 +57,6 @@
     <Compile Include="Races\WeatherEnum.cs" />
     <Compile Include="Vehicles\Dinam.cs" />
     <Compile Include="Vehicles\Kart.cs" />
-    <Compile Include="Vehicles\KartTypeEnum.cs" />
     <Compile Include="Vehicles\Light.cs" />
     <Compile Include="Vehicles\SkyFusion.cs" />
     <Compile Include="Vehicles\Sonnar.cs" />

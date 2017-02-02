@@ -14,11 +14,15 @@ namespace Exercises.MarioKart.Vehicles
             this.Player = player;
             this.Equipments = new List<IEquip>();
         }
+
+        public Kart(Player player, List<IEquip> equips)
+        {
+            this.Player = player;
+            this.Equipments = equips;
+        }
         
         public Player Player { get; set; }
         
-        public KartTypeEnum Type { get; set; }
-
         public List<IEquip> Equipments { get; set; }
 
         public int Velocity

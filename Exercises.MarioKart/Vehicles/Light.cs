@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Exercises.MarioKart.Players;
+using Exercises.MarioKart.Equipments;
 
 namespace Exercises.MarioKart.Vehicles
 {
@@ -10,6 +11,9 @@ namespace Exercises.MarioKart.Vehicles
     {
         public Light(Player player) 
             : base(player) {  }
+
+        public Light(Player player, List<IEquip> equips)
+            : base(player, equips) { }
 
         protected override int CalculateVelocityPerType()
         {

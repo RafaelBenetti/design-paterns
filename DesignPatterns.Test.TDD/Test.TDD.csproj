@@ -48,7 +48,9 @@
     </When>
     <Otherwise>
       <ItemGroup>
-        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
       </ItemGroup>
     </Otherwise>
   </Choose>
@@ -74,6 +76,8 @@
     <Compile Include="ConceptsOOP\Polimorfism\CarTest.cs" />
     <Compile Include="CreationalPatterns\FactoryMethod\ManagementSoccerPlayerTest.cs" />
     <Compile Include="CreationalPatterns\FactoryMethod\ManagementBasketballPlayerTest.cs" />
+    <Compile Include="Exercises\Mario Kart\PlayerTest.cs" />
+    <Compile Include="Exercises\Mario Kart\KartTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StructuralPatterns\Bridge\RetangleTest.cs" />
     <Compile Include="StructuralPatterns\Bridge\CircleTest.cs" />
@@ -114,6 +118,10 @@
     <ProjectReference Include="..\DesignPatterns.StructuralPatterns.Bridge\DesignPatterns.StructuralPatterns.Bridge.csproj">
       <Project>{52b916e4-a10a-4f44-93a6-cc7071c7fd2b}</Project>
       <Name>DesignPatterns.StructuralPatterns.Bridge</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Exercises.MarioKart\Exercises.MarioKart.csproj">
+      <Project>{4e2999a1-35a0-41f0-8bf3-bc50cbe3cef8}</Project>
+      <Name>Exercises.MarioKart</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

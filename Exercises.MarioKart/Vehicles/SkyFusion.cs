@@ -1,5 +1,6 @@
 ﻿using Exercises.MarioKart.Equipments;
 using Exercises.MarioKart.Players;
+using System.Collections.Generic;
 
 namespace Exercises.MarioKart.Vehicles
 {
@@ -7,6 +8,9 @@ namespace Exercises.MarioKart.Vehicles
     {
         public SkyFusion(Player player) 
             : base(player) { }
+
+        public SkyFusion(Player player, List<IEquip> equips)
+            : base(player, equips) { }
 
         public int GetBonusValue()
         {            
