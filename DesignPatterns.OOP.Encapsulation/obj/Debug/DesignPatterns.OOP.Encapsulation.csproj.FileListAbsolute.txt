@@ -2,3 +2,7 @@ C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\bin\Debug\DesignPatter
 C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\bin\Debug\DesignPatterns.OOP.Encapsulation.pdb
 C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\obj\Debug\DesignPatterns.OOP.Encapsulation.exe
 C:\GitHub\design-paterns\DesignPatterns.OOP.Encapsulation\obj\Debug\DesignPatterns.OOP.Encapsulation.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Encapsulation\bin\Debug\DesignPatterns.OOP.Encapsulation.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Encapsulation\bin\Debug\DesignPatterns.OOP.Encapsulation.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Encapsulation\obj\Debug\DesignPatterns.OOP.Encapsulation.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Encapsulation\obj\Debug\DesignPatterns.OOP.Encapsulation.pdb

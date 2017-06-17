@@ -8,3 +8,8 @@ C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\De
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb

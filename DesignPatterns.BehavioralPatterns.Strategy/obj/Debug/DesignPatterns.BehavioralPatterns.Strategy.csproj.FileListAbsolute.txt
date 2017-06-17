@@ -9,3 +9,8 @@ C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Debug\De
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe
 C:\GitHub\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb
 C:\github\design-paterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.csprojResolveAssemblyReference.cache
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.Strategy\bin\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.Strategy\obj\Debug\DesignPatterns.BehavioralPatterns.Strategy.pdb

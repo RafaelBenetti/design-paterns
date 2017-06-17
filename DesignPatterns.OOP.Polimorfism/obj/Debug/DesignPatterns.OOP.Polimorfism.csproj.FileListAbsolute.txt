@@ -2,3 +2,7 @@ C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\bin\Debug\DesignPatterns
 C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\bin\Debug\DesignPatterns.OOP.Polimorfism.pdb
 C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.exe
 C:\GitHub\design-paterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Polimorfism\bin\Debug\DesignPatterns.OOP.Polimorfism.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Polimorfism\bin\Debug\DesignPatterns.OOP.Polimorfism.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Polimorfism\obj\Debug\DesignPatterns.OOP.Polimorfism.pdb

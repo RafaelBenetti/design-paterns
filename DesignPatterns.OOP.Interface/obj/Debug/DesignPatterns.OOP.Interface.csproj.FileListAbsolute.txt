@@ -3,3 +3,7 @@ C:\GitHub\design-paterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.O
 C:\GitHub\design-paterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.exe
 C:\GitHub\design-paterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.pdb
 C:\github\design-paterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.csprojResolveAssemblyReference.cache
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.OOP.Interface.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.OOP.Interface.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.pdb
