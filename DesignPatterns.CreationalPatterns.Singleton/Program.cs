@@ -16,6 +16,8 @@ namespace DesignPatterns.CreationalPatterns.Singleton
             ProcessReport.Add("Finishing the process.");
 
             Console.WriteLine(ProcessReport.GetCompleteReport());
+
+            Console.ReadKey();
         }
     }
 }

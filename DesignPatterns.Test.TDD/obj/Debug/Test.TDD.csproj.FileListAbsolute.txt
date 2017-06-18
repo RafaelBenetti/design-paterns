@@ -60,3 +60,6 @@ C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\Des
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\obj\Debug\Test.TDD.csprojResolveAssemblyReference.cache
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.dll
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\obj\Debug\DesignPatterns.Test.TDD.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatters.AbstractFactory.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatters.AbstractFactory.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatters.AbstractFactory.exe.config

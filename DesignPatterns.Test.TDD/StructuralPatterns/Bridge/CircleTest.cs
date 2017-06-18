@@ -20,7 +20,7 @@ namespace DesignPatterns.Test.TDD.StructuralPatterns.Bridge
             this._blueColor = new BlueColor();            
         }
 
-        [TestMethod]
+        [TestMethod, TestCategory("Bridge")]
         public void Validate_Set_Blue_Color_Circle()
         {   
             var retangle = new Circle(_blueColor);
@@ -29,7 +29,7 @@ namespace DesignPatterns.Test.TDD.StructuralPatterns.Bridge
             Assert.AreEqual(BLUE_COLOR, retangle.Color);
         }
 
-        [TestMethod]
+        [TestMethod, TestCategory("Bridge")]
         public void Validate_Set_Red_Color_Circle()
         {
             var retangle = new Circle(_redColor);

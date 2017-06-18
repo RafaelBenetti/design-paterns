@@ -74,6 +74,7 @@
     <Compile Include="ConceptsOOP\Polimorfism\BicycleTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\PlaneTest.cs" />
     <Compile Include="ConceptsOOP\Polimorfism\CarTest.cs" />
+    <Compile Include="CreationalPatterns\AbstractFactory\ReaderTest.cs" />
     <Compile Include="CreationalPatterns\FactoryMethod\ManagementSoccerPlayerTest.cs" />
     <Compile Include="CreationalPatterns\FactoryMethod\ManagementBasketballPlayerTest.cs" />
     <Compile Include="CreationalPatterns\Singleton\ProcessReportTest.cs" />
@@ -101,6 +102,10 @@
     <ProjectReference Include="..\DesignPatterns.CreationalPatterns.Singleton\DesignPatterns.CreationalPatterns.Singleton.csproj">
       <Project>{e5ce38cb-86d5-43f2-90c5-7c01047329a5}</Project>
       <Name>DesignPatterns.CreationalPatterns.Singleton</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DesignPatterns.CreationalPatters.AbstractFactory\DesignPatterns.CreationalPatters.AbstractFactory.csproj">
+      <Project>{781b1d17-43ef-437d-b336-095eabcab49b}</Project>
+      <Name>DesignPatterns.CreationalPatters.AbstractFactory</Name>
     </ProjectReference>
     <ProjectReference Include="..\DesignPatterns.OOP.Delegation\DesignPatterns.OOP.Delegation.csproj">
       <Project>{81e2e2bc-c24c-4fd6-8048-1006283fb65b}</Project>
