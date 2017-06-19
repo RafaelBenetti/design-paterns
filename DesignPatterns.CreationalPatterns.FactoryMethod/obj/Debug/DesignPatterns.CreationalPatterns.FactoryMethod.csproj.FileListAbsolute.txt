@@ -6,3 +6,5 @@ C:\Users\benetti\workspace\design-patterns\DesignPatterns.CreationalPatterns.Fac
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.CreationalPatterns.FactoryMethod\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.pdb
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.CreationalPatterns.FactoryMethod\obj\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.exe
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.CreationalPatterns.FactoryMethod\obj\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.CreationalPatterns.FactoryMethod\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.CreationalPatterns.FactoryMethod\obj\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.csprojResolveAssemblyReference.cache

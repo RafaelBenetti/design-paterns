@@ -63,3 +63,13 @@ C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\obj\Debug\Des
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatters.AbstractFactory.exe
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatters.AbstractFactory.pdb
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatters.AbstractFactory.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.StructuralPatterns.Decorator.exe
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.StructuralPatterns.Decorator.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.StructuralPatterns.Decorator.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatterns.FactoryMethod.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.CreationalPatterns.Singleton.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Delegation.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Encapsulation.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Interface.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.StructuralPatterns.Bridge.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.Test.TDD\bin\Debug\DesignPatterns.OOP.Polimorfism.exe.config

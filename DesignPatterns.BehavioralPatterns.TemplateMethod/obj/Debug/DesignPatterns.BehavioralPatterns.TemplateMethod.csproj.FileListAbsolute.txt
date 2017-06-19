@@ -13,3 +13,4 @@ C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.Tem
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\bin\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.exe
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.BehavioralPatterns.TemplateMethod\obj\Debug\DesignPatterns.BehavioralPatterns.TemplateMethod.csprojResolveAssemblyReference.cache

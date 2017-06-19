@@ -7,3 +7,5 @@ C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\bin\Debu
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.OOP.Interface.pdb
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.exe
 C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.pdb
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\bin\Debug\DesignPatterns.OOP.Interface.exe.config
+C:\Users\benetti\workspace\design-patterns\DesignPatterns.OOP.Interface\obj\Debug\DesignPatterns.OOP.Interface.csprojResolveAssemblyReference.cache
